@@ -4,7 +4,7 @@ layout: doc
 
 # Gitmoji
 
-## An emoji guide for your commit messages
+## دليل الإيموجي في قتهب
 
 |Art|label|Description|
 |-|-|-|
