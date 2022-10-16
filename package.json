@@ -1,0 +1,12 @@
+{
+  "name": "vite-journal",
+  "version": "1.0.0",
+  "description": "Vite blog system",
+  "main": "index.js",
+  "author": "muath-ye",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.21",
+    "vue": "^3.2.41"
+  }
+}
